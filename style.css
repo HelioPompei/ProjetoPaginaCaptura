@@ -22,7 +22,7 @@ header{
     height: 500px;
     width: 1000px;
     background-size: cover;
-    background-image: url(../imagens/people.jpg);
+    background-image: url(./imagens/people.jpg);
 }
 
 #form-container{
@@ -59,7 +59,7 @@ select{
     -webkit-appearance: none;
     appearance: none;
 
-    background-image: url(../imagens/arrow.jpg);
+    background-image: url(./imagens/arrow.jpg);
     background-repeat:no-repeat;
     background-position: calc(100% - 10px) center;
 }
