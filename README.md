@@ -1,2 +1,2 @@
-<h1> Acesse esse Repositório! </h1>
+<h2> ↓ Acesse esse Repositório! ↓ </h2>
 https://heliopompei.github.io/ProjetoPaginaCaptura/
